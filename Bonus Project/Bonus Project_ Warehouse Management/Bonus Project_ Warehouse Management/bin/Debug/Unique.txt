@@ -1,0 +1,7 @@
+App_2290_iPh:Phone:Apple:iPhone:Battery Capacity:4500mAh:Storage Capacity:128GB:RAM:8GB:Display:Oled:Camera:24mp:STOCK
+Sam_1239_S20:Phone:Samsung:S20FE:Battery Capacity:4500mAh:Storage Capacity:64GB:RAM:8GB:Display:Oled:Camera:26mp:STOCK
+App_9123_mac:Laptop:Apple:macbook:Battery Capacity:120kW:Processor:Intel Core i5-12500H:Laptop Memory:8GB:Graphic Card:M1:Operating System:MacOs:STOCK
+Sam_7261_win:Tv:Samsung:window:Display Type:Amoled:Speakers:60W:Voice Search option:YES:TV Size:72in:TV Operating System:Android:STOCK
+App_9935_Air:Headphones:Apple:Airpods pro:Headphone Type:Over the ear:Loudness:40dB:Headphone Color:black:Wireless:Wireless:Noise-Cancellation:Noise-Cancelling:STOCK
+Son_6052_PS5:Console:Sony:PS5:Storage Capacity:1 TB:Controller Version:Dualshock 5:RAM:8GB:CPU:AMD 3015Ce:GPU:GeForce2 series:STOCK
+Sam_9306_S20:Phone:Samsung:S20+:Battery Capacity:5000mAh:Storage Capacity:256GB:RAM:16GB:Display:Samoled:Camera:100mp:NOT STOCK

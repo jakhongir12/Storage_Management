@@ -1,0 +1,76 @@
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.exe.config
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.exe
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.pdb
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.AssemblyReference.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.Properties.Resources.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.GenerateResource.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.CoreCompileInputs.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.exe
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.pdb
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddPhoneForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddLaptopForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.exe.config
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.exe
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.pdb
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.AssemblyReference.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.MenuForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddProductForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddPhoneForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddLaptopForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddTvForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddHeadPhoneForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddConsoleForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AllProductsForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.SeeFullInformationForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.Properties.Resources.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.GenerateResource.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.CoreCompileInputs.cache
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.exe
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.pdb
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.AssemblyReference.cache
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.MenuForm.resources
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddProductForm.resources
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddPhoneForm.resources
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddLaptopForm.resources
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddHeadPhoneForm.resources
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddConsoleForm.resources
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AllProductsForm.resources
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.SeeFullInformationForm.resources
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.Properties.Resources.resources
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.GenerateResource.cache
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.CoreCompileInputs.cache
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.exe
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.pdb
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.exe.config
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.exe
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.pdb
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.MenuForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddProductForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddHeadPhoneForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddConsoleForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AllProductsForm.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.SeeFullInformationForm.resources
+C:\Users\aniru\Dropbox\My PC (LAPTOP-77RUM93N)\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.TVFORM.resources
+C:\Users\hniaf\Desktop\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.TVFORM.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.exe.config
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.exe
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\bin\Debug\Bonus Project_ Warehouse Management.pdb
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.AssemblyReference.cache
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.MenuForm.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddProductForm.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddPhoneForm.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddLaptopForm.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.TVFORM.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddHeadPhoneForm.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AddConsoleForm.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.AllProductsForm.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.SeeFullInformationForm.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus_Project__Warehouse_Management.Properties.Resources.resources
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.GenerateResource.cache
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.csproj.CoreCompileInputs.cache
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.exe
+C:\Users\aniru\Documents\61166_Tiger1_Project23\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.pdb
+C:\Users\acer\Desktop\61338_Tiger1_Bonus Project\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.exe
+C:\Users\acer\Desktop\61338_Tiger1_Bonus Project\Bonus Project_ Warehouse Management\Bonus Project_ Warehouse Management\obj\Debug\Bonus Project_ Warehouse Management.pdb

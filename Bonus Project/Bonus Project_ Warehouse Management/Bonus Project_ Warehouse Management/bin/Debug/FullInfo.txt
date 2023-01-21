@@ -1,0 +1,5 @@
+Phone:App_2290_iPh:Apple:iPhone:1
+Phone:Sam_1239_S20:Samsung:S20FE:2
+Laptop:App_9123_mac:Apple:macbook:1
+Tv:Sam_7261_win:Samsung:window:1
+Headphones:App_9935_Air:Apple:Airpods pro:1
